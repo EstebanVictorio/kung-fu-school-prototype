@@ -1,0 +1,34 @@
+body,html{
+    margin: 0 ;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#container{
+    /*width: 100%;
+    height: 100%;*/
+}
+
+.layout-container{
+    /*width: 100%;
+    height: 100%;*/
+}
+
+.mdc-top-app-bar{
+    background-color: #242424!important;
+}
+
+.mdc-top-app-bar__title > img{
+    max-width: 49px;
+    max-height: 49px;
+}
+
+.swiper-container{
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
